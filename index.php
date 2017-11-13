@@ -14,9 +14,9 @@
                         -Algodón mini         $6.50 <br>
                         -Algodón mediano $9 <br>
                         -Algodón Grande   $15 <br>
-                        -Mega Algodon      $90 <br>
+                        -Mega Algodon      $90 <br> <br> <br>
                         Algodones de sabores en "Vaso frape" ¡Nuevo! <br>
-                        Sabores a escoger mínimo 10 piezas por sabor <br>
+                        Sabores a escoger mínimo 10 piezas por sabor <br> <br> <br>
 
                         Algodón bote mini         $6.50 <br>
                         Algodón bote mediano $9 <br>
