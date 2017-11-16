@@ -11,16 +11,16 @@
                         y tenemos capacidad para atender eventos hasta 500 pz por hora.<br>
                         Empresa formal - Facturamos tu evento <br>
                         En pedidos para eventos y tiendas tenemos diferentes presentaciones, los precios son los siguientes:<br>
-                        -Algodón mini         $6.50 <br>
-                        -Algodón mediano $9 <br>
-                        -Algodón Grande   $15 <br>
-                        -Mega Algodon      $90 <br> <br> <br>
-                        Algodones de sabores en "Vaso frape" ¡Nuevo! <br>
-                        Sabores a escoger mínimo 10 piezas por sabor <br> <br> <br>
-
-                        Algodón bote mini         $6.50 <br>
-                        Algodón bote mediano $9 <br>
-                        Algodón frasco grande $16 <br>
+                        <br>
+                        <table border=1>
+                        <td>                                
+                                <tr>-Algodón mini         $6.50 </tr><tr>Algodones de sabores en "Vaso frape" ¡Nuevo! <br>
+                                                                        Sabores a escoger mínimo 10 piezas por sabor </tr> </td>
+                                <td> <tr>-Algodón mediano $9 </tr><tr>Algodón bote mini         $6.50 <br></tr></td>
+                                <td>-<tr>Algodón Grande   $15</tr> <tr>Algodón bote mediano $9 </tr> </td>
+                                <td><tr>-Mega Algodon      $90</tr><tr>Algodón frasco grande $16 <</tr> </td>
+                        <table>
+                                <br>
                         Rojo- Sandia/fresa <br>
                         Verde-Lima/limón   <br>
                         Naranja- Naranja       <br>                   
